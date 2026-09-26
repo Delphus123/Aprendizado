@@ -1,0 +1,25 @@
+{
+  "curso": "geb-preparacao",
+  "titulo": "Trilha de Preparação para Gödel, Escher, Bach",
+  "aluno": "Rafael Laguardia",
+  "inicio": null,
+  "aula_atual": 1,
+  "semana_atual": 1,
+  "checklists": {
+    "1": {"proposicoes_e_valores": false, "tabelas_verdade": false, "validade_vs_verdade": false},
+    "2": {"quantificadores": false, "negacao_quantificada": false, "prova_curta": false},
+    "3": {"sintaxe_vs_semantica": false, "sistema_formal": false, "demonstrabilidade_consistencia": false},
+    "4": {"algoritmo": false, "computabilidade": false, "diagonalizacao_parada": false},
+    "5": {"numeracao_godel": false, "sentenca_godel": false, "incompletude_vs_inconsistencia": false},
+    "6": {"autorreferencia_niveis": false, "analogias_geb": false, "pronto_para_geb": false}
+  },
+  "notas_testes": {},
+  "aulas_concluidas": [],
+  "discord": {
+    "guild_id": "1553480198043869386",
+    "canal_anuncios": "1553493856555761697",
+    "canal_exercicios": "1553493858640199853",
+    "canal_duvidas": "1553493859726659588"
+  },
+  "cron_entrega": "06:00 America/Sao_Paulo"
+}

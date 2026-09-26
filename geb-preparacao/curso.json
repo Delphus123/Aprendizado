@@ -1,0 +1,13 @@
+{
+  "titulo": "Trilha de Preparação para Gödel, Escher, Bach",
+  "aluno": "Rafael Laguardia",
+  "total_aulas": 30,
+  "aulas_por_semana": 5,
+  "discord": {
+    "guild_id": "1553480198043869386",
+    "canal_anuncios": "1553493856555761697",
+    "canal_exercicios": "1553493858640199853",
+    "canal_duvidas": "1553493859726659588"
+  },
+  "cron_entrega": "06:00 America/Sao_Paulo"
+}

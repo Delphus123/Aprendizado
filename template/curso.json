@@ -1,0 +1,13 @@
+{
+  "titulo": "",
+  "aluno": "Rafael Laguardia",
+  "total_aulas": 0,
+  "aulas_por_semana": 5,
+  "discord": {
+    "guild_id": "",
+    "canal_anuncios": "",
+    "canal_exercicios": "",
+    "canal_duvidas": ""
+  },
+  "cron_entrega": "HH:MM America/Sao_Paulo"
+}
